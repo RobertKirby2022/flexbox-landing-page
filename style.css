@@ -1,0 +1,32 @@
+.header {
+	display: flex;
+ 	flex-direction: row;
+	border: 2px solid rebeccapurple;
+	background-color: #1F2937;
+	align-content: space-between;
+	flex-flow: wrap;
+	height: 85px;
+
+}
+
+.header .header-logo {
+	display: flex;
+	justify-content: flex-start;
+	border: 2px solid green;
+	margin-right: auto;
+	height: 80px;
+
+}
+
+.header .header-links {
+	display: flex;
+	border: 2px solid red;
+	margin-left: auto;
+	
+}
+
+#header-link-three {
+	text-height: 50px;
+	color: E5E7EB;
+}
+

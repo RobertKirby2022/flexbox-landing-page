@@ -144,7 +144,7 @@ body {
 	border: 2px solid red;
 	align-content: space-between;
 	flex-flow: wrap;
-	height: 350px;
+	height: 250px;
 	width: 1200px;
 	justify-content: center;
 	alight-items: center;
@@ -156,8 +156,36 @@ body {
 	display: flex;
 	border: 2px solid blue;
 	color: #1F2937;
-	margin-right: 50px;
-	margin-top: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	justify-content: center;
 	alight-items: center;
+}
+
+.mid-content-one-boxes {
+	font-weight: bold;
+	font-size: 36px;
+	display: flex;
+	border: 2px solid blue;
+	color: #1F2937;
+	width: 600px;
+	height: 150px;
+	margin: 0px;
+	justify-content: space-around;
+	alight-items: center;
+	padding: 5px;
+}
+
+.mid-content-box {
+	display: flex;
+	border: 3px solid #3882F6;
+	width: 80px;
+	height: 80px;
+	padding: 20px;
+	justify-content: space-around;
+	margin: 0px;
+	border-radius: 10px;
+	color: #E5E7EB;
+	margin-top: 0px;
+	
 }

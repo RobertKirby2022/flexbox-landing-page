@@ -1,2 +1,2 @@
 # flexbox-landing-page
-This project was created to practice flexbox skills.
+This project was created to practice HTML and CSS.
